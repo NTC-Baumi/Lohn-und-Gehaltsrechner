@@ -1,0 +1,9 @@
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\bin\Debug\Lohn und Gehaltsrechner.exe.config
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\bin\Debug\Lohn und Gehaltsrechner.exe
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\bin\Debug\Lohn und Gehaltsrechner.pdb
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\obj\Debug\Lohn und Gehaltsrechner.csprojResolveAssemblyReference.cache
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\obj\Debug\Lohn_und_Gehaltsrechner.Form1.resources
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\obj\Debug\Lohn_und_Gehaltsrechner.Properties.Resources.resources
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\obj\Debug\Lohn und Gehaltsrechner.csproj.GenerateResource.Cache
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\obj\Debug\Lohn und Gehaltsrechner.exe
+C:\Users\T21052\Documents\Visual Studio 2017\Projects\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\Lohn und Gehaltsrechner\obj\Debug\Lohn und Gehaltsrechner.pdb
